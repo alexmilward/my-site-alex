@@ -1,0 +1,30 @@
+---
+title: My awesome post
+author: ''
+date: '2020-01-09'
+slug: my-new-project
+categories: []
+tags:
+  - awesome
+  - cool
+  - etc
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-01-09T15:02:31-08:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+
+Here's some sweet code!
+
+an amazing plot:
+```{r}
+plot(cars)
+```
+
