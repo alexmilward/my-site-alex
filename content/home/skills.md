@@ -21,15 +21,15 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "globe"
   icon_pack = "fas"
-  name = "Statistics"
+  name = "GIS"
   description = "100%"  
   
 [[feature]]
-  icon = "camera-retro"
+  icon = "edit"
   icon_pack = "fas"
-  name = "Photography"
+  name = "Communication"
   description = "10%"
 
 +++

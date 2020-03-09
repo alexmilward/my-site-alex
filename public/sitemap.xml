@@ -33,17 +33,27 @@
   </url>
   
   <url>
-    <loc>/tags/awesome/</loc>
-    <lastmod>2020-01-09T15:02:31-08:00</lastmod>
+    <loc>/project/</loc>
+    <lastmod>2020-03-08T13:45:35-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/cool/</loc>
-    <lastmod>2020-01-09T15:02:31-08:00</lastmod>
+    <loc>/project/</loc>
+    <lastmod>2020-03-08T14:03:41-07:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/etc/</loc>
+    <loc>/project/</loc>
+    <lastmod>2020-03-08T14:03:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-03-08T13:55:05-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/ecology/</loc>
     <lastmod>2020-01-09T15:02:31-08:00</lastmod>
   </url>
   
@@ -53,7 +63,12 @@
   </url>
   
   <url>
-    <loc>/project/</loc>
+    <loc>/tags/species-abundance/</loc>
+    <lastmod>2020-01-09T15:02:31-08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/summary-statistics/</loc>
     <lastmod>2020-01-09T15:02:31-08:00</lastmod>
   </url>
   
@@ -75,6 +90,7 @@
   <url>
     <loc>/authors/admin/</loc>
     <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -220,11 +236,6 @@
   <url>
     <loc>/publication/conference-paper/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/project/awesome-project/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
